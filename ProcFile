@@ -1,1 +1,1 @@
-web: gunicorn phonebook.wsgi 0.0.0.0\$PORT
+web: gunicorn registration.wsgi 0.0.0.0\$PORT
