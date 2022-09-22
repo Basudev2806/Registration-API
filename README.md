@@ -23,4 +23,4 @@ Django app to register and authenticate user using REST API framework.
 ## Useful commands:
   - `python manage.py createsuperuser`
   - `python manage.py makemigrations`
-  - `python manage.py migrate`# Registration API 
+  - `python manage.py migrate`
